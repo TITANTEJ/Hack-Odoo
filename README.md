@@ -1,12 +1,18 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Role Permissions
+Guest View all questions and answers
+User Register, log in, post questions/answers, vote
+Admin Moderate content
+Core Features (Must-Have) 
+1. Ask Question
+Users can subm it a new question using:
+Title – Short and descriptive
+Description – Written using a rich text editor )
+Admin Role
+● Reject inappropriate or spammy skill descriptions.
+● Ban users who violate platform policies.
+● Monitor pending, accepted, or cancelled swaps.
+● Send platform-wide messages (e.g., feature updates, downtime alerts).
+● Download reports of user activity, feedback logs, and swap statistics
+Tags – Multi-select input (e.g., React , JWT)
+2. Rich Text Editor Features
