@@ -1,0 +1,9 @@
+/* src/index.css */
+/* Remove @tailwind directives here, CDN handles them */
+
+/* Import Google Font - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif; /* Apply Inter font to the entire body */
+}
